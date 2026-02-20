@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Rosary (feat. Travis Scott)",
+  "base_artist": "Don Toliver",
+  "createdAt": "2026-02-20T21:49:38.710157Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rosary (feat. Travis Scott)",
+      "artist": "Don Toliver",
+      "has_synced": false,
+      "path": "select/01_Rosary_(feat._Travis_Scott)_Don_Toliver.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ruby Rosary (feat. J. Cole)",
+      "artist": "A$AP Rocky",
+      "has_synced": true,
+      "path": "select/02_Ruby_Rosary_(feat._J._Cole)_A$AP_Rocky.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ruby Rosary (feat. J. Cole)",
+      "artist": "A$AP Rocky, J. Cole",
+      "has_synced": true,
+      "path": "select/03_Ruby_Rosary_(feat._J._Cole)_A$AP_Rocky,_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "fashion rosary (feat. Fony Wallace & Gunner)",
+      "artist": "Swagdaddy Sensei",
+      "has_synced": true,
+      "path": "select/04_fashion_rosary_(feat._Fony_Wallace_&_Gunner)_Swagdaddy_Sensei.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ruby Rosary (feat. J. Cole)",
+      "artist": "J Cole",
+      "has_synced": true,
+      "path": "select/05_Ruby_Rosary_(feat._J._Cole)_J_Cole.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rosary (feat. Travis Scott)",
+      "artist": "Don Toliver, Travis Scott",
+      "has_synced": false,
+      "path": "select/pl_01_Rosary_(feat._Travis_Scott)_Don_Toliver,_Travis_Scott.txt"
+    }
+  ]
+}
